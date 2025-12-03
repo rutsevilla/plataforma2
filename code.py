@@ -171,7 +171,7 @@ st.markdown(
 )
 
 # ================== TABLERO ==================
-columna1, columna2 = st.columns([2, 1.2])
+columna1, columna2 = st.columns([2, 1])
 
 # --------- COLUMNA IZQUIERDA: MÓDULOS + “VENTANA” DE DASHBOARDS ---------
 with columna1:
