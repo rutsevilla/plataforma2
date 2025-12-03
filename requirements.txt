@@ -1,0 +1,13 @@
+streamlit
+plotly
+pandas
+numpy
+streamlit-option-menu
+unidecode
+geopandas
+leaflet
+folium
+streamlit_folium
+rasterio
+matplotlib
+plotly
