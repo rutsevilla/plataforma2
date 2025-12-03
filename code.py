@@ -185,7 +185,7 @@ with columna1:
             with col:
                 with st.container(border=True, height=270):
                     # columnas internas solo para centrar
-                    left, center, right = st.columns([0.7, 2, 0.7])
+                    left, center, right = st.columns([0.3, 2, 0.3])
                     with center:
                         logo_uri = img_to_data_uri(module["logo"])
                         st.image(logo_uri, use_container_width=True, width=100)
